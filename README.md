@@ -1,4 +1,4 @@
-## Processes Involved - OFF device (STM32)
+## Processes Involved
 --------------------------------
 
 <img width="300" height="400" alt="Untitled presentation" src="https://github.com/user-attachments/assets/bf62b49a-ccb1-4900-92ea-75cb5dcdc850" />
@@ -16,20 +16,3 @@ so the raw signal used in this project looks like this (let it be application ag
 Spectrum analysis decomposes a signal into its frequency components and revealing the amplitude of each frequency component present in it. This mainly helps in understanding the frequency components of a signal. By analyzing the spectrum, we can determine the frequency distribution, amplitude, and phase of the signal. This information is crucial for understanding the characteristics and behavior of the signal-in-hand.
 
 __"SO, FOR SIGNAL CHARACTERIZATION"__
-
----------------------------------
----------------------------------
-
-> FFT magnitude spectrum:
-
-<img width="500" height="500" alt="temp1" src="https://github.com/user-attachments/assets/9aabba57-25e1-4935-afb7-7040a54ed5fc" />
-
----------------------------------
----------------------------------
-> Power spectral density (PSD) spectrum:
-
-<img width="500" height="500" alt="temp2" src="https://github.com/user-attachments/assets/09ea4887-74a2-41f2-adb4-75d66883d32f" />
-
----------------------------------
----------------------------------
-## Processes Involved - ON device (STM32)
