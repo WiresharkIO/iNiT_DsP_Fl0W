@@ -1,15 +1,17 @@
 ## Processes Involved
---------------------------------
 
+<p align="center">
 <img width="300" height="400" alt="Untitled presentation" src="https://github.com/user-attachments/assets/bf62b49a-ccb1-4900-92ea-75cb5dcdc850" />
+</p>
 
----------------------------------
 
 > It starts with raw data (anything from anywhere) in hand, and since it is being processed in a digital system (discrete-time and discrete value captured at that time) we might need to have knowledge about the sampling frequency used to discretize this raw real-time continuous signal to make a representation of it in the digital system.
 
 so the raw signal used in this project looks like this (let it be application agnostic)
 
-<img width="500" height="500" alt="temp" src="https://github.com/user-attachments/assets/47933219-fc48-46df-8abc-a44f15852c29" />
+<p align="center">
+   <img width="900" height="600" alt="temp" src="https://github.com/user-attachments/assets/47933219-fc48-46df-8abc-a44f15852c29" />
+</p>
 
 
 > Spectrum Analysis?
