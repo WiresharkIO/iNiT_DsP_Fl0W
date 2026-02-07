@@ -13,5 +13,12 @@ Provides the steepest, fastest cutoff of any filter for a given order, but has r
 
 > How the filtered output looks like:
 
+__Desired Signal__
+
 <img width="800" height="600" alt="plot1_class1_eating_comparison" src="https://github.com/user-attachments/assets/2dd88774-491a-46a7-b17c-c4b562bf923e" />
+
+__Noise Signal__
+
+<img width="800" height="600" alt="plot2_class0_noise_comparison" src="https://github.com/user-attachments/assets/e61211c4-2cf7-4d0a-9d94-9b69191a2980" />
+
 
