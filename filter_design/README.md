@@ -5,5 +5,6 @@ __: Intuitively what a filter does :__
 2. small ripples (high freq) 
 3. jagged edges (noise)
 
-> After filtering: 
+> After filtering:
+
 The ripples outside 0.5 - 4 Hz (this consist of the dominant frequency obtained = 1.x hz) vanish, keeps only the waves required.
