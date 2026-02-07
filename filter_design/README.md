@@ -1,9 +1,9 @@
 __: Intuitively what a filter does :__
 
 > Before filtering: 
-1. signal we saw in raw format has big waves (low freq and could be cyclic) 
-2. small ripples (high freq) 
-3. jagged edges (noise)
+1. signal we saw in raw format has big waves (low frequency and could be cyclic) 
+2. small ripples (high frequency) 
+3. jagged edges (noise patterns - non cyclic or rhythmic)
 
 > After filtering:
 
